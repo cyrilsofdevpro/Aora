@@ -1,0 +1,96 @@
+{
+  "company": {
+    "name": "Aora Standard Company Limited",
+    "tagline": "Trusted & Registered Business in Nigeria",
+    "description": "Aora Standard Company Limited is a fully registered and verified business entity in Nigeria, committed to delivering high-quality business solutions that drive growth and success.",
+    "email": "olamideadeniyi82@gmail.com",
+    "phone": "+234 (update with your number)",
+    "whatsapp": "https://wa.me/2349000000000",
+    "address": "Ikeja, Lagos, Nigeria"
+  },
+  "cac": {
+    "rcNumber": "8690768",
+    "registrationDate": "August 11, 2025",
+    "registrationDateFull": "11th August, 2025",
+    "status": "Active & Compliant",
+    "cacWebsite": "https://www.cac.gov.ng"
+  },
+  "services": [
+    {
+      "id": "consulting",
+      "name": "Business Consulting",
+      "icon": "fa-chart-line",
+      "description": "Expert strategic guidance to optimize your operations and accelerate growth",
+      "features": [
+        "Strategic Planning",
+        "Market Analysis",
+        "Business Optimization",
+        "Performance Evaluation"
+      ]
+    },
+    {
+      "id": "contracts",
+      "name": "General Contracts",
+      "icon": "fa-handshake",
+      "description": "Professional contract execution with full transparency and accountability",
+      "features": [
+        "Contract Drafting",
+        "Project Execution",
+        "Quality Assurance",
+        "Timeline Compliance"
+      ]
+    },
+    {
+      "id": "supply",
+      "name": "Supply Services",
+      "icon": "fa-cube",
+      "description": "Reliable supply chain solutions with verified partners and quality assurance",
+      "features": [
+        "Supplier Verification",
+        "Quality Control",
+        "Delivery Management",
+        "Cost Optimization"
+      ]
+    },
+    {
+      "id": "operations",
+      "name": "Operations Support",
+      "icon": "fa-cog",
+      "description": "End-to-end operational excellence and process improvement services",
+      "features": [
+        "Process Optimization",
+        "Systems Integration",
+        "Staff Support",
+        "Continuous Improvement"
+      ]
+    }
+  ],
+  "mission": "To provide exceptional business consulting, contracting, and supply services that empower businesses to achieve sustainable growth and profitability in Nigeria's dynamic market.",
+  "vision": "To be the most trusted and sought-after business solutions provider in Nigeria, recognized for our commitment to excellence, reliability, and innovation.",
+  "values": [
+    "Integrity",
+    "Excellence",
+    "Reliability",
+    "Customer-Centricity",
+    "Innovation"
+  ],
+  "socialMedia": {
+    "facebook": "#",
+    "twitter": "#",
+    "linkedin": "#",
+    "instagram": "#"
+  },
+  "colors": {
+    "primaryDark": "#0f172e",
+    "secondaryDark": "#1a2743",
+    "accentGold": "#d4af37",
+    "accentGreen": "#10b981",
+    "white": "#ffffff",
+    "textDark": "#1a1a1a"
+  },
+  "SEO": {
+    "keywords": "business consulting, contracts, supply services, Nigeria, Lagos, registered company",
+    "author": "Aora Standard Company Limited",
+    "themeColor": "#0f172e"
+  }
+}
